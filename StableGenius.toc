@@ -1,7 +1,7 @@
 ## Interface: 70300
 ## Title: Stable Genius
 ## Author: rmaldoom
-## Version: 1.0.0
+## Version: @project-version@
 ## SavedVariables: StableGeniusDB
 ##Dependencies: HunterData
 
