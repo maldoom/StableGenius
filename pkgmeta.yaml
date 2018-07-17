@@ -1,0 +1,4 @@
+package-as: StableGenius
+license-output: LICENSE
+required-dependencies:
+  - hunter-data
