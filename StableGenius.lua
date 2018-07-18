@@ -62,7 +62,7 @@ end
 -- Append tooltip info for Hunter's "Call Pet" spells
 -- 
 function StableGenius:OnTooltipSetSpell(tooltip)
-  local spellName, spellRank, spellId = tooltip:GetSpell()
+  local spellName, spellId = tooltip:GetSpell()
   if not spellName then return end
   
   -- Check HunterData to see if this is one of our "Call Pet" spell slots
